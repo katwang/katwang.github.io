@@ -10,10 +10,17 @@ title: Home
 
 </header>
 
-<p><span class="image left"><img src="images/pic15.jpg" alt="" /></span>I'm a current Master's student & aspiring data scientist. About me text here.<br />
+<section>
+<p><span class="image left"><img src="images/pic15.jpg" alt="" /></span> <h2>About Me </h2> <br /> I'm a current Master's student & aspiring data scientist. About me text here.<br />
 <br />
 more text.<br />
 <br />
 and more</p>
+</section>
+
+<section>
+
+<h2>My Projects</h2>
 
 {% include tiles.html %}
+</section>
