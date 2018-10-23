@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Welcome to Jekyll!"
+title:  "260 project"
 date:   2016-07-18 12:00:00 -0400
 categories: jekyll update
 ---
