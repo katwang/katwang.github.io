@@ -9,7 +9,7 @@
 title: Hi,
 email: katherinewang@hsph.harvard.edu
 description: I'm Katherine!
-baseurl: "/phantom-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://katwang.github.io" # the base hostname & protocol for your site
 
 # Logo settings
