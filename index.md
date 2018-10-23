@@ -11,7 +11,7 @@ title: Home
 </header>
 
 <section>
-<p><span class="image left"><img src="images/pic15.jpg" alt="" /></span> <h2>About Me </h2> <br /> I'm a current Master's student & aspiring data scientist. About me text here.<br />
+<p><span class="image left"><img src="images/pic15.jpg" alt="" /></span> <h2>About Me </h2> I'm a current Master's student & aspiring data scientist. About me text here.<br />
 <br />
 more text.<br />
 <br />
