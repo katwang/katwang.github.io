@@ -13,9 +13,8 @@ title: Home
 <section>
 <p><span class="image left"><img src="images/pic15.jpg" alt="" /></span> Current Master's student, graduating December 2018.<br />
 Aspiring data scientist | Python and R <br />
-Two years of experience
+Two years of systems development, project management, and regulatory experience.
 <br />
-Certified<br />
 Thanks for your interest in my projects! You can find more at: 
 
 <ul class="icons">
