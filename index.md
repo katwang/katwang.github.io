@@ -11,11 +11,19 @@ title: Home
 </header>
 
 <section>
-<p><span class="image left"><img src="images/pic15.jpg" alt="" /></span> I'm a current Master's student & aspiring data scientist. About me text here.<br />
+<p><span class="image left"><img src="images/pic15.jpg" alt="" /></span> Current Master's student, graduating December 2018.<br />
+Aspiring data scientist | Python and R <br />
+Two years of experience
 <br />
-more text.<br />
+Certified<br />
 <br />
-and more</p>
+Thanks for your interest in my projects. Talk to me!</p>
+
+<ul class="icons">
+<li><a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" class="icon style2 fa-linkedin"><span class="label">LinkedIn</span></a></li>
+<li><a href="https://github.com/{{ site.github_username }}" class="icon style2 fa-github"><span class="label">GitHub</span></a></li>
+<li><a href="mailto:{{ site.email }}" class="icon style1 fa-envelope-o"><span class="label">Email</span></a></li>
+</ul>
 </section>
 
 <section>
