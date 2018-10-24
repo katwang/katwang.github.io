@@ -24,7 +24,7 @@
 			</form>
 		</section> -->
 		<section>
-			<h2>Follow</h2>
+			<h2>Find me at</h2>
 			<ul class="icons">
 				{% if site.twitter_username %}
 				<li><a href="https://twitter.com/{{ site.twitter_username }}" class="icon style2 fa-twitter"><span class="label">Twitter</span></a></li>
@@ -34,6 +34,9 @@
 				{% endif %}
 				{% if site.instagram_username %}
 				<li><a href="https://www.instagram.com/{{ site.instagram_username }}" class="icon style2 fa-instagram"><span class="label">Instagram</span></a></li>
+				{% endif %}
+				{% if site.linkedin_username %}
+				<li><a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" class="icon style2 fa-linkedin"><span class="label">LinkedIn</span></a></li>
 				{% endif %}
 				{% if site.dribbble_username %}
 				<li><a href="#" class="icon style2 fa-dribbble"><span class="label">Dribbble</span></a></li>

@@ -8,6 +8,7 @@ categories: jekyll update
  <h2> Explorating the Relationship Between Self-Reported Sleep Habits and Mental Health </h2>
 
  **Dataset**: [Sleep Heart Health Study](https://sleepdata.org/datasets/shhs)
+ **Language**: Python
 
  This was a project where I tried to see whether self-reported sleep habits could predict someone's mental health status.
 

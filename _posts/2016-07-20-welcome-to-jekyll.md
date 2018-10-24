@@ -8,6 +8,7 @@ categories: jekyll update
 <h2> Predicting mortality using logistic regression </h2>
 
 **Dataset**: [Framingham Heart Study](https://sleepdata.org/datasets/shhs)
+**Language**: R
 
 This is an in-depth exploration of using logistic regression to predict mortality in the Framingham Heart Study cohort. I looked into model interpretation, adjusting for confounders and effect modifiers, and non-linear methods.
 
