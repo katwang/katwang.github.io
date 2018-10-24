@@ -16,12 +16,11 @@ Aspiring data scientist | Python and R <br />
 Two years of experience
 <br />
 Certified<br />
-<br />
-Thanks for your interest in my projects. Talk to me!</p>
+Thanks for your interest in my projects! You can find more at:</p>
 
 <ul class="icons">
-<li><a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" class="icon style2 fa-linkedin"><span class="label">LinkedIn</span></a></li>
-<li><a href="https://github.com/{{ site.github_username }}" class="icon style2 fa-github"><span class="label">GitHub</span></a></li>
+<li><a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" class="icon style1 fa-linkedin"><span class="label">LinkedIn</span></a></li>
+<li><a href="https://github.com/{{ site.github_username }}" class="icon style1 fa-github"><span class="label">GitHub</span></a></li>
 <li><a href="mailto:{{ site.email }}" class="icon style1 fa-envelope-o"><span class="label">Email</span></a></li>
 </ul>
 </section>
