@@ -22,7 +22,12 @@ The map was built using the <code>leaflet</code> package in R, with <a href="htt
 </div>
 </div> -->
 
-<div class="box alt">
+<!-- <div class="box alt">
 <video width="99%" height="540">
 <source src="leafletmap.html" type="html" ></video>
-</div>
+</div> -->
+
+<div class="box alt"><div class="row uniform">
+<iframe src="http://www.youtube.com/embed/4aQwT3n2c1Q" height="315" width="560" allowfullscreen="" frameborder="0">
+</iframe>
+</div></div>
