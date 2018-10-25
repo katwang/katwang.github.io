@@ -11,7 +11,7 @@ title: Home
 </header>
 
 <section>
-<p><span class="image left"><img src="images/pic15.jpg" alt="" /></span> Hello! I'm studying Health Data Science at the Harvard T.H. Chan School of Public Health, graduating December 2018. Previously worked at the FDA doing systems development and project management. Always excited to squeeze insights out of data and watch animal videos online. </p>
+<p><span class="image left"><img src="images/pic15.jpg" alt="" /></span> Hello! I'm studying Health Data Science at the Harvard T.H. Chan School of Public Health, graduating December 2018. Previously worked at the FDA doing systems development and project management. Always excited to squeeze some insights out of data and watch animal videos online. </p>
 
 <p>Thanks for your interest in my projects! You can find more at: <br />
 	<a href="https://www.linkedin.com/in/{{ site.linkedin_username }}">LinkedIn</a> &nbsp;&nbsp; // &nbsp;&nbsp; <a href="https://github.com/{{ site.github_username }}">Github</a> &nbsp;&nbsp; // &nbsp;&nbsp; <a href="mailto:{{ site.email }}">E-Mail</a> 
