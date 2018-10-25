@@ -11,7 +11,7 @@ title: Home
 </header>
 
 <section>
-<p><span class="image left"><img src="images/headshot.jpg" alt="" /></span> Hi there! 
+<p><span class="image left"><img src="images/headshot.jpg" alt="" /></span> <h3>Hi there! </h3>
 <br /><br />
 I'm a Master's student in Health Data Science at the Harvard T.H. Chan School of Public Health, graduating December 2018. I previously worked at the FDA doing systems development and project management. </p>
 
