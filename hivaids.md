@@ -1,0 +1,13 @@
+---
+layout: page
+title:  Modeling the Spread of HIV/AIDS
+---
+
+**Dataset**: None <br/>
+**Language**: Python
+
+
+HIV is a worldwide pandemic, with an estimated 2.5 million new infections every year. Sexually transmitted HIV is spread through seri-discordant couples, making network models a great way to help us understand the spread of disease. It would also help us design effective prevention measures against the disease. This was an exercise in building a mechanistic model that can model individual-level behaviors in the epidemic spread of HIV/AIDS.
+
+
+Code is <a href="https://github.com/katwang/Examples/blob/master/modeling_hivaids.ipynb">here</a>.
