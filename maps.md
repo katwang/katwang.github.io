@@ -18,6 +18,6 @@ The map was built using the <code>leaflet</code> package in R, with <a href="htt
 
 <div class="box alt">
 <div class="row uniform">
-<div class="12u$"><span class="image fit"><img src="images/leafletmap.html" alt="" /></span></div>
+<div class="12u$"><span class="image fit"><img src="leafletmap.html" alt="" /></span></div>
 </div>
 </div>
