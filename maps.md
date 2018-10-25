@@ -12,5 +12,21 @@ An interactive <a href="https://github.com/katwang/Examples/blob/master/leafletm
 The map was built using the <code>leaflet</code> package in R, with <a href="https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data">data</a> from the CDC. The data wrangling was performed using <code>sparklyr</code>, an R interface to Apache Spark.
 
 
-<iframe src="https://www.youtube.com/watch?v=ctTKPs66rCU" height="315" width="560" allowfullscreen="" frameborder="0">
-</iframe>
+<!-- <iframe src="https://www.youtube.com/watch?v=ctTKPs66rCU" height="315" width="560" allowfullscreen="" frameborder="0">
+</iframe> -->
+
+
+<div class="box alt">
+<div class="row uniform">
+<div class="12u$"><span class="image fit"><img src="images/pic13.jpg" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
+<div class="4u$"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
+<div class="4u$"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
+<div class="4u$"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
+</div>
+</div>
