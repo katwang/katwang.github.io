@@ -16,6 +16,8 @@ title: Home
 <p>Thanks for your interest in my projects! You can find more at: <br />
 	<a href="https://www.linkedin.com/in/{{ site.linkedin_username }}">LinkedIn</a> &nbsp;&nbsp; // &nbsp;&nbsp; <a href="https://github.com/{{ site.github_username }}">Github</a> &nbsp;&nbsp; // &nbsp;&nbsp; <a href="mailto:{{ site.email }}">E-Mail</a> 
 </p>
+<br />
+<br />
 
 </section>
 
