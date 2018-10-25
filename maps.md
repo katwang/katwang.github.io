@@ -16,8 +16,13 @@ The map was built using the <code>leaflet</code> package in R, with <a href="htt
 </iframe> -->
 
 
-<div class="box alt">
+<!-- <div class="box alt">
 <div class="row uniform">
 <div class="12u$"><span class="image fit"><img src="leafletmap.html" alt="" /></span></div>
 </div>
+</div> -->
+
+<div class="box alt">
+<video width="99%" height="540">
+<source src="leafletmap.html" type="html" ></video>
 </div>
