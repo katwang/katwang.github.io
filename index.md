@@ -11,9 +11,9 @@ title: Home
 </header>
 
 <section>
-<p><span class="image left"><img src="images/pic15.jpg" alt="" /></span> Current Master's student &nbsp;&nbsp; <b>|</b> &nbsp;&nbsp; Graduating December 2018<br />
-Aspiring Data Scientist &nbsp;&nbsp; <b>|</b> &nbsp;&nbsp; Python and R <br />
-Analytics &nbsp;&nbsp; <b>|</b> &nbsp;&nbsp; Systems Development &nbsp;&nbsp; <b>|</b> &nbsp;&nbsp; Project Management &nbsp;&nbsp; <b>|</b> &nbsp;&nbsp; Regulatory Experience
+<p><span class="image left"><img src="images/pic15.jpg" alt="" /></span> Current Master's student &nbsp;&nbsp; // &nbsp;&nbsp; Graduating December 2018 &nbsp;&nbsp; // &nbsp;&nbsp;
+Aspiring Data Scientist &nbsp;&nbsp; // &nbsp;&nbsp; Python and R <br />
+Analytics &nbsp;&nbsp; // &nbsp;&nbsp; Systems Development &nbsp;&nbsp; // &nbsp;&nbsp; Project Management &nbsp;&nbsp; // &nbsp;&nbsp; Regulatory Experience
 <br />
 Thanks for your interest in my projects! You can find more at: 
 
