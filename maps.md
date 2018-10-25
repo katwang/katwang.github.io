@@ -32,5 +32,5 @@ The map was built using the <code>leaflet</code> package in R, with <a href="htt
 </iframe>
 </div></div> -->
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQhBpyHGlC1uG7TWnOJvIcW1MdVtw4FtfAnvAYecXaSHp6OBS2IfZIgTryAacBAD0mSIYZTYdzebRw-/embed?start=false&loop=true&delayms=15000" frameborder="0" width="560" height="310" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="leafletmap" frameborder="0" width="560" height="310" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
