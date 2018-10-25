@@ -11,12 +11,14 @@ title: Home
 </header>
 
 <section>
-<p><span class="image left"><img src="images/pic15.jpg" alt="" /></span> Current Health Data Science Master's student at the Harvard T.H. Chan School of Public Health; graduating December 2018 <br />
+<p><span class="image left"><img src="images/pic15.jpg" alt="" /></span> Health Data Science Master's student at the Harvard T.H. Chan School of Public Health; graduating December 2018 </p>
+<p>
 Aspiring Data Scientist <br />
-Analytics &nbsp;&nbsp; // &nbsp;&nbsp; Systems Development &nbsp;&nbsp; // &nbsp;&nbsp; Project Management &nbsp;&nbsp; // &nbsp;&nbsp; Regulatory Experience
-<br />
-Thanks for your interest in my projects! You can find more at: 
-
+</p>
+<p>Analytics &nbsp;&nbsp; // &nbsp;&nbsp; Systems Development &nbsp;&nbsp; // &nbsp;&nbsp; Project Management &nbsp;&nbsp; // &nbsp;&nbsp; Regulatory Experience
+<br /></p>
+<p>Thanks for your interest in my projects! You can find more at: </p>
+<p>
 <ul class="icons">
 <li><a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" class="icon style1 fa-linkedin"><span class="label">LinkedIn</span></a></li>
 <li><a href="https://github.com/{{ site.github_username }}" class="icon style1 fa-github"><span class="label">GitHub</span></a></li>
