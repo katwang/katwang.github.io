@@ -9,7 +9,7 @@
 
 		{% for page in site.pages %}
 
-		{% if page.title != "Home"%}
+		{% if page.title and page.title != "Home" %}
 
 		<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
 
