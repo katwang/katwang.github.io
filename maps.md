@@ -11,4 +11,6 @@ An interactive <a href="https://github.com/katwang/Examples/blob/master/leafletm
 
 The map was built using the <code>leaflet</code> package in R, with <a href="https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data">data</a> from the CDC. The data wrangling was performed using <code>sparklyr</code>, an R interface to Apache Spark.
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="600" height="600" src="https://www.youtube.com/watch?v=ctTKPs66rCU"></iframe>
+
+<iframe src="https://www.youtube.com/watch?v=ctTKPs66rCU" height="315" width="560" allowfullscreen="" frameborder="0">
+</iframe>
